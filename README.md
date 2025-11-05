@@ -1,2 +1,7 @@
-# Ui
-Description: "Core C++/Rust engine for Bambuu"
+# Bambuu UI  
+Qt-based interface for the Bambuu Unified Creative Studio.
+
+## Purpose
+- Main application interface
+- 5-panel workspace (Editing, Color, Sound, Photo, Scripting)
+- Cross-platform desktop UI
